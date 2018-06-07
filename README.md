@@ -1,4 +1,4 @@
-# Linux_Shell-
+# Linux_Shell
 
 <b> Course Project for Operating Systems (CSE231) </b>
 <b> Instructor : Dr. Sambuddho Chakravarty </b>
