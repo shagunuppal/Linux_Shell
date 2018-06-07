@@ -1,0 +1,54 @@
+cd ~
+cd /
+cd
+cd .
+cd ..
+cd ar
+cd arg1/arg2
+cd arg1
+cd arg2
+
+echo abc
+echo -n abc
+echo “abc”
+echo -E ab\c
+echo “ab
+>cd
+>bjkkl”
+
+pwd
+
+history
+history -c
+history
+history -a
+exit
+history
+
+date
+date -u
+date -R
+
+mkdir a
+mkdir -v a
+mkdir -p a/b/c
+mkdir -p -v a/b/c
+
+ls
+ls -a
+ls -m
+ls -a -m
+ls -m -a
+
+cat a b
+cat a 
+cat -n a
+cat -b a
+
+rm a
+rm -d a
+rm -i a
+rm -i -d a
+rm -d -i a
+
+exit
