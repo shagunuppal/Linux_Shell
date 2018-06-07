@@ -17,3 +17,5 @@ The <b>External Commands</b> include the following:
 * ls
 * cat
 * rm
+
+The optional commands along with the description of possible test cases is mentioned in detail in the pdf (writeup file).
